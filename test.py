@@ -1,1 +1,1 @@
-ptint("Test file from github")
+print("Test file from github")
